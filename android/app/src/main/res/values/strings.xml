@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">biblica</string>
+    <string name="title_activity_main">biblica</string>
+    <string name="package_name">com.biblica.app</string>
+    <string name="custom_url_scheme">com.biblica.app</string>
+</resources>
